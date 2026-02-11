@@ -1,0 +1,22 @@
+# Environments
+.env
+
+# Database
+*.db
+opinion.db
+
+# Output/Data
+output.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# OS
+.DS_Store
+
+# API Tests (contains hardcoded keys)
+tools/api_tests/
